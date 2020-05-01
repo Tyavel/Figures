@@ -1,0 +1,1 @@
+Select name_product, name_category from product where name_product = "Хлеб"
